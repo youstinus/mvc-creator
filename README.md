@@ -18,7 +18,7 @@ Example  `MVCreator.exe Customer Restaurant Product Table Waiter`
     │	├── BaseEntity.cs
     │	├── BaseRepository.cs
     │	├── BaseService.cs
-    │   └── Interfaces
+    │   	└── Interfaces
     │		├── IBaseController.cs
     │		├── IBaseDto.cs
     │		├── IBaseEntity.cs
@@ -38,5 +38,3 @@ Example  `MVCreator.exe Customer Restaurant Product Table Waiter`
     │   └── Interfaces
     │
     └── ...
-	
-Base folder contains base entities, controller, repository, service.
