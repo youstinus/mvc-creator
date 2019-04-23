@@ -8,16 +8,16 @@ Arguments case sensitive and must represent objects
 Type `MVCreator.exe` for help  
 Example  `MVCreator.exe Customer Restaurant Product Table Waiter`  
 
-It will create folder structure like this:  
-Base
-	Interfaces
-Controllers
-	Interfaces
-Models
-	Dto
-Repositories
-	Interfaces
-Services
-	Interfaces
+### It will create folder structure like this:  
+Base  
+	Interfaces  
+Controllers  
+	Interfaces  
+Models  
+	Dto  
+Repositories  
+	Interfaces  
+Services  
+	Interfaces  
 	
 Base folder contains base entities, controller, repository, service.
