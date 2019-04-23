@@ -13,10 +13,23 @@ Example  `MVCreator.exe Customer Restaurant Product Table Waiter`
     ├── ...
     │
     ├── Base
+    │	├── BaseController.cs
+    │	├── BaseDto.cs
+    │	├── BaseEntity.cs
+    │	├── BaseRepository.cs
+    │	├── BaseService.cs
     │   └── Interfaces
+    │		├── IBaseController.cs
+    │		├── IBaseDto.cs
+    │		├── IBaseEntity.cs
+    │		├── IBaseRepository.cs
+    │		├── IBaseService.cs
     │
     ├── Controllers
     │   └── Interfaces
+    │
+    ├── Models
+    │   └── Dto
     │
     ├── Repositories
     │   └── Interfaces
