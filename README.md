@@ -23,7 +23,7 @@ Example  `MVCreator.exe Customer Restaurant Product Table Waiter`
     │	├── IBaseDto.cs
     │	├── IBaseEntity.cs
     │	├── IBaseRepository.cs
-    │	├── IBaseService.cs
+    │	└── IBaseService.cs
     │
     ├── Controllers
     │   └── Interfaces
